@@ -1,0 +1,17 @@
+body {
+  padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+h1 {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+p {
+  text-align: center;
+  padding-bottom: 30px;
+}
+.center-justified {
+  text-align: justify;
+  margin: 0 auto;
+  width: 30em;
+}
